@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/bd3c5051-4db8-4411-bd72-0a8f50309f26) and start prompting.
+Simply visit the(https://agent-gilt.vercel.app/) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
